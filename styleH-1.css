@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(253, 253, 253);
+    margin: 0px;
+    padding: 0px;
+    }
+
+.cabecera_1{
+    background-color: #93B5C9;
+    margin: 0vh auto;
+    padding: 50px;
+    width: 50%;
+}
+
+.cabecera_2 {
+    background-color: #AB2849;
+    margin: 0vh auto;
+    margin-bottom: 10px;
+    padding: 50px;
+    width: 50%;
+    height: 70px;
+}
+
+.secciones {
+    background-color: #AB2849;
+    margin-left: 425px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width: 500px;
+    padding: 35px;
+
+}
+
+.piesito_1 {
+    background-color: #AB2849;
+    margin-top: 10px;
+    margin-left: 280px;
+    width: 50%;
+    padding: 20px;
+}
